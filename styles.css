@@ -33,3 +33,15 @@ input {
     margin-top: 10px;
 
 }
+
+form {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+label {
+    margin-top: .5rem;
+    align-self: center;
+    font-size: 1.5rem;
+}
