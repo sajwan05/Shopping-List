@@ -10,6 +10,11 @@ li {
     margin-bottom: 10px;
 }
 
+form button {
+    background:green;
+    color: white;
+}
+
 li button, button {
     font-size: 12px;
     margin-left: 20px;
